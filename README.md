@@ -10,4 +10,4 @@ SF-2 is a fuzz pedal, handmade in Poland in 90s by not existing now Exar Electro
 
 This version is modified a bit to my taste to improve clarity, tone and noise levels.
 
-Project was assembled and tested - only thing that I messed up is a dual FREQ pot pins -> they are mirrored for one half of pot
+Project was assembled and tested - only thing that I messed up is a dual FREQ pot pins -> they are mirrored for one half of pot but it can be fixed by correct wiring so check the schematic first.
