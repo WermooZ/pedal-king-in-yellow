@@ -6,7 +6,7 @@ Based on the **Exar Super Fuzz SF-02** traced by **VitaliiBobrov** at www.freest
 
 https://www.freestompboxes.org/viewtopic.php?p=293456&hilit=exar#p293456
 
-SF-2 is a fuzz pedal, handmade in Poland in 90s by not existing now Exar Electronix.
+SF-2 is a fuzz pedal, handmade in Poland in 90s by not existing now Exar Electronix (Janusz Raczyk and Leszek Gruszka).
 
 This version is modified a bit to my taste to improve clarity, tone and noise levels.
 
